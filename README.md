@@ -18,11 +18,12 @@ This is a simple front-end **Amazon Clone** built using only **HTML** and **CSS*
 
 - **HTML5**
 - **CSS3**
-- [Remix Icon](https://remixicon.com/) or any icon library 
+- [Remix Icon](https://remixicon.com/) 
 
 ---
 
 ## 📸 Screenshots
 
-
-![Screenshot](path/to/screenshot.png)
+![Screenshot](screenshots/1.png)
+![Screenshot](screenshots/3.png)
+![Screenshot](screenshots/5.png)
