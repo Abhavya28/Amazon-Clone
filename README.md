@@ -24,6 +24,6 @@ This is a simple front-end **Amazon Clone** built using only **HTML** and **CSS*
 
 ## 📸 Screenshots
 
-![Screenshot](screenshots/1.png)
-![Screenshot](screenshots/3.png)
-![Screenshot](screenshots/5.png)
+![Screenshot](Screenshots/1.png)
+![Screenshot](Screenshots/3.png)
+![Screenshot](Screenshots/5.png)
